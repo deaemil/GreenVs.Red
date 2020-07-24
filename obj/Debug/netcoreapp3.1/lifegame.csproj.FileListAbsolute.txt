@@ -1,0 +1,13 @@
+C:\Users\DEA\source\repos\lifegame\lifegame\bin\Debug\netcoreapp3.1\lifegame.exe
+C:\Users\DEA\source\repos\lifegame\lifegame\bin\Debug\netcoreapp3.1\lifegame.deps.json
+C:\Users\DEA\source\repos\lifegame\lifegame\bin\Debug\netcoreapp3.1\lifegame.runtimeconfig.json
+C:\Users\DEA\source\repos\lifegame\lifegame\bin\Debug\netcoreapp3.1\lifegame.runtimeconfig.dev.json
+C:\Users\DEA\source\repos\lifegame\lifegame\bin\Debug\netcoreapp3.1\lifegame.dll
+C:\Users\DEA\source\repos\lifegame\lifegame\bin\Debug\netcoreapp3.1\lifegame.pdb
+C:\Users\DEA\source\repos\lifegame\lifegame\obj\Debug\netcoreapp3.1\lifegame.csprojAssemblyReference.cache
+C:\Users\DEA\source\repos\lifegame\lifegame\obj\Debug\netcoreapp3.1\lifegame.AssemblyInfoInputs.cache
+C:\Users\DEA\source\repos\lifegame\lifegame\obj\Debug\netcoreapp3.1\lifegame.AssemblyInfo.cs
+C:\Users\DEA\source\repos\lifegame\lifegame\obj\Debug\netcoreapp3.1\lifegame.csproj.CoreCompileInputs.cache
+C:\Users\DEA\source\repos\lifegame\lifegame\obj\Debug\netcoreapp3.1\lifegame.dll
+C:\Users\DEA\source\repos\lifegame\lifegame\obj\Debug\netcoreapp3.1\lifegame.pdb
+C:\Users\DEA\source\repos\lifegame\lifegame\obj\Debug\netcoreapp3.1\lifegame.genruntimeconfig.cache
